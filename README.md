@@ -1,6 +1,6 @@
 ## PodSpace
 
-PoolTogether Pods are meant for making social realtionships around PoolTogether. It makes Pod a community where users can join and have discussions. Users can join/create new pods, invite others, chat and hang around.
+PoolTogether Pods are meant for making social relationships around PoolTogether. It makes Pod a community where users can join and have discussions. Users can join/create new pods, invite others, chat and hang around.
 
 ## Features 
 - Create a Pod 
